@@ -20,13 +20,19 @@
 <label>Password</label><br>
 <input id="password" type="password"><br>
 <button onclick="myFunction()">Validate</button>
+<button onclick="myFunction2()">Forgot?</button>
 </div>
 <script>
+function myFunction2(){
+	location.href="weimin.html";
+}
 function myFunction() {
   var i,j;
 i="20240917yyds";
 j=document.getElementById("password").value;
-if(j==i){location.href="index12.html";}
+if(j==i){
+	location.href="index12.html";
+	}
 else{
   location.href="img.html";
 }
