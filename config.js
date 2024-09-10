@@ -53,5 +53,5 @@ var config = {
     },
 
     // 结束语
-    loveText: 'By Wei 2024.9.13',
+    loveText: 'By Wei 2024.9.9',
 };
