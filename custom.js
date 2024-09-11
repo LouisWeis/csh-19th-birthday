@@ -2,7 +2,6 @@
 $(function () {
     let dom = document.createElement('span');
     config.texts.forEach(function (item) {
-        duration:3,
         let p = document.createElement('p');
         p.innerHTML = item;
         if (config.imgs && config.imgs[item]) {
@@ -12,6 +11,11 @@ $(function () {
             p.appendChild(img);
         }
         dom.appendChild(p);
+        setTimeout(function(){
+            if(index===config.text.length-1){
+                $('#texts-container').apped(dom.innerHTML);
+            }
+        },2000);
     });
     $('#texts-container').append(dom.innerHTML);
 });
