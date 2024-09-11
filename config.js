@@ -26,7 +26,7 @@ var config = {
         "To miss me",
         "Happy Birthday!Little girl!",
         "Forever Beautiful!",
-        "Forever Happy",
+        "Forever Happy"
     ],
     imgs: {
         "Hello!": "./imgs/songxinxin.jpeg",
@@ -63,7 +63,8 @@ var config = {
         cake_fadein: "Cake?",
         light_candle: "Turn on Candles?",
         wish_message: "Happy Birthday!!!",
-        story: "There are some memories",
+        story: "There are some memories"
     },
     loveText: 'By Wei 2024.9.9',
 };
+
