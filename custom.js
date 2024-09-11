@@ -2,6 +2,7 @@
 $(function () {
     let dom = document.createElement('span');
     config.texts.forEach(function (item) {
+        duration:3,
         let p = document.createElement('p');
         p.innerHTML = item;
         if (config.imgs && config.imgs[item]) {
