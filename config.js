@@ -26,7 +26,7 @@ var config = {
         "To miss me",
         "Happy Birthday!Little girl!",
         "Forever Beautiful!",
-        "Forever Happy"
+        "Forever Happy",
     ],
     imgs: {
         "Hello!": "./imgs/songxinxin.jpeg",//
