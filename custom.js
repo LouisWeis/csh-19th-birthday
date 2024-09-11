@@ -11,11 +11,6 @@ $(function () {
             p.appendChild(img);
         }
         dom.appendChild(p);
-        setTimeout(function(){
-            if(index===config.text.length-1){
-                $('#texts-container').apped(dom.innerHTML);
-            }
-        },2000);
     });
     $('#texts-container').append(dom.innerHTML);
 });
