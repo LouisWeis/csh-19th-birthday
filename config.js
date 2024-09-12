@@ -31,8 +31,8 @@ var config = {
     imgs: {
         "Hello!": "./imgs/songxinxin.jpeg",
         "Dear YU": "./imgs/keai.jpg",
-        "At a young age I met you": "./imgs/young.jpg",
-        "As the monsoon gently brushes by": "./imgs/fasttime.jpg",
+        "At a young age I met you": "./imgs/young.jpg"//,
+        "As the monsoon gently brushes by": "./imgs/fasttime.jpg",//
         "With time flies like a shuttle": "./imgs/fasttime2.jpg",
         "Time has turned back to the day that belongs to you": "./imgs/belongs.jpg",
         "Happy Birthday!": "./imgs/shengri.jpeg",
@@ -47,12 +47,12 @@ var config = {
         "But all the looks I like": "./imgs/love.jpg",
          "Hope the happiness and joy always belong to you":"./imgs/xinfu.jpg",
         "Have you got all the gifts?": "./imgs/chuo.gif",
-        "Hope you eat well next year": "./imgs/chihaodian.jpeg",//
-        "You have strength to work": "./imgs/work.jpg",//
-        "And...": "./imgs/12.jpg",//
-        "To miss me": "./imgs/12.jpg",//
-        "Happy Birthday!Little girl!": "./imgs/happy.jpg",//
-        "Forever Beautiful!":"./imgs/futureb.jpg",//
+        "Hope you eat well next year": "./imgs/chihaodian.jpeg",
+        "You have strength to work": "./imgs/work.jpg",
+        "And...": "./imgs/heihei.jpg",
+        "To miss me": "./imgs/12.jpg",
+        "Happy Birthday!Little girl!": "./imgs/happy.jpg",
+        "Forever Beautiful!":"./imgs/futureb.jpg",
         "Forever Happy!":"./imgs/futurec.jpg",
     },
     desc: {
