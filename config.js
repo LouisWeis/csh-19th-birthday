@@ -31,7 +31,7 @@ var config = {
     imgs: {
         "Hello!": "./imgs/songxinxin.jpeg",
         "Dear YU": "./imgs/keai.jpg",
-        "At a young age I met you": "./imgs/young.jpg"//,
+        "At a young age I met you": "./imgs/young.jpg",
         "As the monsoon gently brushes by": "./imgs/fasttime.jpg",//
         "With time flies like a shuttle": "./imgs/fasttime2.jpg",
         "Time has turned back to the day that belongs to you": "./imgs/belongs.jpg",
