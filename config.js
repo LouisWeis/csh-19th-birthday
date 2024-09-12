@@ -32,7 +32,7 @@ var config = {
         "Hello!": "./imgs/songxinxin.jpeg",
         "Dear YU": "./imgs/keai.jpg",
         "At a young age I met you": "./imgs/young.jpg",
-        "As the monsoon gently brushes by": "./imgs/fasttime.jpg",//
+        "As the monsoon gently brushes by": "./imgs/fasttime.jpg",
         "With time flies like a shuttle": "./imgs/fasttime2.jpg",
         "Time has turned back to the day that belongs to you": "./imgs/belongs.jpg",
         "Happy Birthday!": "./imgs/shengri.jpeg",
