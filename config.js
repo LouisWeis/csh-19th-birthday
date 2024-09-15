@@ -53,7 +53,7 @@ var config = {
         "To miss me": "./imgs/12.jpg",
         "Happy Birthday!Little girl!": "./imgs/happy.jpg",
         "Forever Beautiful!":"./imgs/futureb.jpg",
-        "Forever Happy!":"./imgs/futurec.jpg",
+        "Forever Happy":"./imgs/futurec.jpg",
     },
     desc: {
         turn_on: "Click Me",
