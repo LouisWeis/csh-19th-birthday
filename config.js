@@ -47,7 +47,7 @@ var config = {
         "But all the looks I like": "./imgs/love.jpg",
          "Hope the happiness and joy always belong to you":"./imgs/xinfu.jpg",
         "Have you got all the gifts?": "./imgs/chuo.gif",
-        "Hope you eat well next year": "./imgs/chihaodian.jpeg",
+        "Eating well next year": "./imgs/chihaodian.jpeg",
         "You have strength to work": "./imgs/work.jpg",
         "And...": "./imgs/heihei.jpg",
         "To miss me": "./imgs/12.jpg",
